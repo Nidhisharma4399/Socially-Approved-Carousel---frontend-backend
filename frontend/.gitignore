@@ -25,3 +25,13 @@ yarn-error.log*
 
 # vercel
 .vercel
+# typescript (if you ever add TS)
+*.tsbuildinfo
+next-env.d.ts
+
+# editor
+.vscode/
+.idea/
+
+# logs
+*.log

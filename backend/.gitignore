@@ -1,3 +1,14 @@
 node_modules/
 .env
 data/shares.json
+# logs
+*.log
+npm-debug.log*
+
+# editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
